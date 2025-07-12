@@ -1,5 +1,0 @@
-# Configs and system files
-.vscode/
-.prettierignore
-**/.local
-**/.DS_Store
