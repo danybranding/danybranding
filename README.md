@@ -1,9 +1,9 @@
 ![Banner](./cover.jpg)
 <div align="right">
-  <a href="https://paypal.me/danybranding"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-blue?logo=PayPal&logoColor=white&style=flat"></a>
-  <a href="mailto:hola@daniel-benitez.com"><img src="https://img.shields.io/badge/Say%20Hi-EA4335?logo=gmail&logoColor=white"></a>
-  <a href="https://twitter.com/danybranding"><img src="https://img.shields.io/badge/@danybranding-1DA1F2?logo=x&logoColor=white"></a>
-  <a href="https://github.com/danybranding"><img src="https://img.shields.io/github/followers/danybranding?label=Followers&style=social&color=000000"></a>
+  <a href="https://coff.ee/danybranding"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?logo=buymeacoffee&logoColor=black&style=flat" alt="Buy Me a Coffee></a>
+  <a href="mailto:hola@daniel-benitez.com"><img src="https://img.shields.io/badge/Say%20Hi-EA4335?logo=gmail&logoColor=white" alt="Email DΔNNY BS"></a>
+  <a href="https://twitter.com/danybranding"><img src="https://img.shields.io/badge/@danybranding-1DA1F2?logo=x&logoColor=white" alt="Follow DΔNNY BS on Twitter"></a>
+  <a href="https://github.com/danybranding"><img src="https://img.shields.io/github/followers/danybranding?label=Followers&style=social&color=000000" alt="Follow DΔNNY BS on GitHub"></a>
 </div>
 
 ## 👨🏽‍💻 Profile JSON
