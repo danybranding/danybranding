@@ -2,7 +2,6 @@
 <div align="right">
   <a href="https://coff.ee/danybranding"><img src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=FFFFFF&labelColor=000000" alt="Buy Me a Coffee"></a>
   <a href="mailto:hola@daniel-benitez.com"><img src="https://img.shields.io/badge/-Say%20Hi-EA4335?style=for-the-badge&logo=gmail&logoColor=FFFFFF&labelColor=000000" alt="Email DΔNNY BS"></a>
-  <a href="https://twitter.com/danybranding"><img src="https://img.shields.io/badge/-@danybranding-1DA1F2?style=for-the-badge&logo=x&logoColor=FFFFFF&labelColor=000000" alt="Follow DΔNNY BS on Twitter"></a>
 </div>
 
 ## 👨🏽‍💻 Profile JSON
